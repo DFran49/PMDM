@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">T1_Proyecto02</string>
+    <string-array name="cursos">
+        <item>1º DAM</item>
+        <item>2º DAM</item>
+    </string-array>
+    <string name="textoBoton1">Select course</string>
+    <string name="sinCurso">There is no course</string>
+    <string name="observaciones">Write some observations</string>
+    <string name="textoBoton2">Send</string>
+    <string name="programacion">Programming</string>
+    <string name="mensajeToast">The observations are %1$s</string>
+</resources>
